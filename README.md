@@ -16,4 +16,5 @@ You will also need a GitHub account to clone this repository and to learn how to
 3. **Clone this Repository**: Open a terminal or command prompt and run the following command to clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/R-Lionheart/students_2024.git
+
